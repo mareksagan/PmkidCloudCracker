@@ -1,5 +1,5 @@
 # PmkidCloudCracker
-WPA2 PMKID password cracking security toolset using Airgeddon, Alibaba Cloud ECS and Hashcat
+WPA2 PMKID password cracking security toolset (Kali Linux, Airgeddon, Alibaba Cloud ECS, Hashcat)
 
 # Instructions
 1. Download the newest ISO of the Kali Linux [here](https://cdimage.kali.org/kali-2020.2/kali-linux-2020.2-live-amd64.iso)
