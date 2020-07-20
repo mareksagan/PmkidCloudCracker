@@ -9,7 +9,7 @@ WPA2 PMKID password cracking security toolset (Kali Linux, Airgeddon, Alibaba Cl
 5. Once the process is complete, format the *DATA partition* using the Disk Management tool if you're on Windows 10
 6. Navigate to the *DATA partition*
 7. `git clone https://github.com/mareksagan/PmkidCloudCracker.git`
-8. Reboot and connect your external WiFi card with **Atheros AR9721 chip** for best effects
+8. Reboot and connect your external WiFi card with **Ralink 3070L chip** and a directional panel antenna for best effects
 9. Connect to your WiFi network using your internal WiFi card
 10. `sudo su`
 11. `cd /media/kali/DATA/`
